@@ -45,6 +45,7 @@ RUN pip install streamlit
 RUN pip install pypdf
 RUN pip install clipboard
 RUN pip install pyocr
+RUN pip install pdf2image
 RUN pip install opencv-python
 
 # 環境変数設定

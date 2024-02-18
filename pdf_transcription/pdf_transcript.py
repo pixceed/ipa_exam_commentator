@@ -6,7 +6,7 @@ from PIL import Image
 import pyocr
 
 # PDFファイルのパス
-pdf_path = "pdf_transcription/input/sc202310_2.pdf"
+pdf_path = "pdf_transcription/input/2023r05a_sc_pm_qs_1.pdf"
 
 # アウトプットディレクトリのパス
 output_dir = "pdf_transcription/output"
